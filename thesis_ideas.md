@@ -49,6 +49,34 @@ Here are several research ideas for a thesis in finance and banking, paired with
 **Datasets:**
 - Use **Yahoo Finance (`yfinance`)** to pull historical data for a basket of assets (Stocks, Bonds, ETFs).
 
+---
+
+## 8. Bangladesh-Specific Research Ideas
+Focusing on the local context of Bangladesh can make your thesis highly relevant and impactful.
+
+### A. Dhaka Stock Exchange (DSE) Market Analysis
+**Objective:** Predict the movement of the DSE General Index (DSEX) or specific sectors (Banking, Pharmaceuticals) using historical data. You can also analyze the impact of Covid-19 or specific government policies on DSE.
+**Datasets:**
+- **Dhaka Stock Exchange (DSE) Historical Data (Kaggle):** Several users have uploaded scraped data of DSE share prices over the last 10-15 years.
+- **AmarStock / StockBangladesh:** These websites often provide historical data which can be scraped (ensure you adhere to their terms of service).
+
+### B. Microfinance Impact & Credit Scoring
+**Objective:** Analyze the repayment behavior in microfinance institutions or the impact of micro-credit on household income.
+**Datasets:**
+- **World Bank Open Data (Bangladesh):** Search for "Microfinance" or "Financial Inclusion" indicators for Bangladesh.
+- **Bangladesh Bureau of Statistics (BBS):** Look for the *Household Income and Expenditure Survey (HIES)* data (often available upon request or via research repositories).
+
+### C. Macroeconomic Indicators & Banking Sector Health
+**Objective:** Study the relationship between inflation, GDP growth, and Non-Performing Loans (NPLs) in the Bangladeshi banking sector.
+**Datasets:**
+- **Bangladesh Bank (Central Bank) Open Data:** They publish monthly and yearly economic data, including NPL ratios, interest rates, and inflation.
+- **IMF International Financial Statistics (Bangladesh):** Comprehensive macroeconomic data.
+
+### D. Mobile Financial Services (MFS) Adoption (bKash/Nagad)
+**Objective:** Investigate factors influencing the adoption of MFS in rural vs. urban Bangladesh.
+**Datasets:**
+- **Financial Inclusion Insights (FII):** The InterMedia FII program has survey data regarding financial inclusion and mobile money usage in Bangladesh (datasets are often available for research).
+
 ## Next Steps
 1. **Select a Topic:** Choose the one that interests you most.
 2. **Exploratory Data Analysis (EDA):** Download the dataset and perform initial analysis.
